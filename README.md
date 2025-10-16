@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator App
+#  BMI Calculator App 🧮
 
 A simple and beautiful **Flutter BMI (Body Mass Index) Calculator App** that helps users calculate their BMI based on height and weight, and provides health insights according to the result.
 
@@ -45,4 +45,5 @@ A simple and beautiful **Flutter BMI (Body Mass Index) Calculator App** that hel
 ```bash
 git clone https://github.com/<your-username>/bmi_app.git
 cd bmi_app
+
 
